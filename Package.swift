@@ -19,7 +19,7 @@ let package = Package(
         .target(
             name: "MaterialComponents",
             dependencies: [],
-            path:"Library"
+            path:"Components"
         )
     ]
 )
